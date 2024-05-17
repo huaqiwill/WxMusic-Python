@@ -1,4 +1,4 @@
-# TFyMusic-python 基于PyQt5的音乐播放器
+# WxMusic-python 基于PyQt5的音乐播放器
 
 项目创建日期：2021年9月3日
 
